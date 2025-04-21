@@ -1,6 +1,4 @@
 # 文件夹
-/third_party/*
-!/third_party
 /VulkanTutorialSample/.vs
 
 *.sln
