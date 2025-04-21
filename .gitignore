@@ -1,5 +1,5 @@
 # 文件夹
-/VulkanTutorialSample/.vs
+.vs
 build
 
 *.sln
